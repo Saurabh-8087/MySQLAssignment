@@ -112,5 +112,3 @@ effective date is 2022-04-01 to 2022-05-01 sort by joining date and department n
 -- 14. delete user whos first name start with A and last name end with E
 -- delete from employees e where e.emp_first_name like 'a%'
 -- and e.emp_last_name like '%e';
-
-14. delete user whos first name start with A and last name end with E
